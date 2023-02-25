@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.image-style {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+}
+
+.title {
+  color: #e73959;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+
+.description {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+
+.list-item {
+  background-color: #f8f8ff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+  margin-top: 50px;
+  margin-left: 50px;
+  width: 300px;
+}
+
+.logo-style {
+  height: 20px;
+  width: 20px;
+}
